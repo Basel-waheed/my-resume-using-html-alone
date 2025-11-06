@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lan="en">
+<head>
+<meta charset="UTF-8">
+<title>My Resume</title>
+</head>
+<body>
+<h1>Basel waheed</h1>
+<img src="./basil stand in.jpeg" alt ="not actually me but close enough" height="200"/>
+<h2>summary</h2>
+<p>i am a computer science student with a passion for web development and software engineering. i have experience in HTML, CSS, JavaScript, and Python. i am eager to learn new technologies and improve my skills.</p>
+<hr />
+<h2>education</h2>
+<ul>
+    <li>i have finished hight school and im currently studying in uni for a computer science degree and also try to take more knowledge from the online cults of learning.</li>
+</ul>
+<hr />
+<h2>work experience</h2>
+<ul>
+    <li>nothing really lol still just studying, sorry to disappoint.</li>
+    <li>i do remember working in a dream i think maybe</li>
+</ul>
+<hr />
+<h2>skills</h2>
+<ul>
+    <li>i work under pressure (no need to test)</li>
+    <li>i learn and i like it ngl</li>
+    <li>i can code even if you dont pay me even though i like money but dont care if i spend too much but wait what am i taliking about again? oh yeah im so cool and you should hire me and give me money cuz it would be very cash money of you bruv.</li>
+    <li>im very proffessional and i dont play games
+        <ul>
+            <li>i can make lists inside of lists
+                <ul>
+                    <li>and lists inside of lists isnside of lists</li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+</ul>
+<hr />
+<h2>other</h2>
+<a href="./contacts">contact me</a> <br/>
+<a href="./hobbies">my hobbies</a>
+<footer>
+    <p>© Basel waheed. all rights reserved</p>
+</footer>
+</body>
+
+
+
+</html>
